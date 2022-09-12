@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hello, my name is Choe Jiwon.
+I am student attending [SeoulTech](https://en.seoultech.ac.kr/). My major is Computer Science & Engineering.
+My student number is **22101216**
+
 <!--
 **HoroyoiPeach/horoyoipeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
